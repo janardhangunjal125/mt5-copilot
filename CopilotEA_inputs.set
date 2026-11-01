@@ -1,0 +1,13 @@
+; Sample inputs for CopilotEA.mq5.
+; Fill in YOUR OWN watcher URL and shared secret before attaching.
+; Never commit a .set file that contains real secrets.
+InpWatcherURL=
+InpCommandsURL=
+InpSharedSecret=
+InpAllowExecution=false
+InpMaxVolume=0.10
+InpMagicNumber=991016
+InpPollSeconds=3
+InpHeartbeatSecs=60
+InpLocalAlerts=true
+InpAccountTag=demo

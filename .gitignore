@@ -1,0 +1,11 @@
+*.log
+*.env
+watcher.env
+.env
+*token*
+!LICENSE
+.DS_Store
+Thumbs.db
+events/
+*_state.json
+__pycache__/
